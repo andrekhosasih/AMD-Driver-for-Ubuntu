@@ -1,0 +1,5 @@
+wget http://mineiro.vip/github/libgl1-amdgpu-mesa-dri_17.2.4-511655_amd64.deb
+wget http://mineiro.vip/github/libgl1-amdgpu-mesa-dri_17.2.4-511655_i386.deb
+wget http://mineiro.vip/github/llvm-amdgpu-5.0_5.0-511655_amd64.deb
+wget http://mineiro.vip/github/llvm-amdgpu-5.0_5.0-511655_i386.deb
+wget http://mineiro.vip/github/opencl-amdgpu-pro-icd_17.50-511655_i386.deb
